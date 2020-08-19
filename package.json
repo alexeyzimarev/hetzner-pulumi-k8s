@@ -1,0 +1,15 @@
+{
+    "name": "hetzner-k8s",
+    "devDependencies": {
+        "@types/node": "^10.0.0",
+        "@types/ssh2": "^0.5.44",
+        "@types/uuid": "^7.0.3"
+    },
+    "dependencies": {
+        "@pulumi/hcloud": "^0.0.3",
+        "@pulumi/pulumi": "^2.0.0",
+        "scp2": "^0.5.0",
+        "ssh2": "^0.8.9",
+        "uuid": "^7.0.3"
+    }
+}
